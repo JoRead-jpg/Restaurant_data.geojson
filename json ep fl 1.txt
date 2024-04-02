@@ -1,0 +1,169 @@
+{
+	"osm": {
+		"relation": {
+			"member": [
+				{
+					"_type": "way",
+					"_ref": "340772526",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772517",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772539",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772555",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772581",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772540",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772520",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772547",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772579",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772576",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772525",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772544",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772545",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772561",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772552",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772546",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772549",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772543",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772541",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772548",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772553",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772557",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772550",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772554",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772556",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772551",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772531",
+					"_role": "shell"
+				}
+			],
+			"tag": [
+				{
+					"_k": "level",
+					"_v": "1"
+				},
+				{
+					"_k": "name",
+					"_v": "1"
+				},
+				{
+					"_k": "type",
+					"_v": "level"
+				}
+			],
+			"_id": "4836808",
+			"_visible": "true",
+			"_version": "4",
+			"_changeset": "30979921",
+			"_timestamp": "2015-05-11T02:17:32Z",
+			"_user": "HatimG",
+			"_uid": "2415941"
+		},
+		"_version": "0.6",
+		"_generator": "CGImap 0.9.0 (1340312 spike-06.openstreetmap.org)",
+		"_copyright": "OpenStreetMap and contributors",
+		"_attribution": "http://www.openstreetmap.org/copyright",
+		"_license": "http://opendatacommons.org/licenses/odbl/1-0/"
+	}
+}

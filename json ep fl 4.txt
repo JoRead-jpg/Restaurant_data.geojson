@@ -1,0 +1,124 @@
+{
+	"osm": {
+		"relation": {
+			"member": [
+				{
+					"_type": "way",
+					"_ref": "344181725",
+					"_role": "shell"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181772",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772539",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181775",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181734",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181766",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181745",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772526",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181726",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181744",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181729",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181777",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181748",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181746",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181763",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181742",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "344181743",
+					"_role": "buildingpart"
+				},
+				{
+					"_type": "way",
+					"_ref": "340772517",
+					"_role": "buildingpart"
+				}
+			],
+			"tag": [
+				{
+					"_k": "level",
+					"_v": "4"
+				},
+				{
+					"_k": "name",
+					"_v": "4"
+				},
+				{
+					"_k": "type",
+					"_v": "level"
+				}
+			],
+			"_id": "5122703",
+			"_visible": "true",
+			"_version": "1",
+			"_changeset": "30979921",
+			"_timestamp": "2015-05-11T02:17:32Z",
+			"_user": "HatimG",
+			"_uid": "2415941"
+		},
+		"_version": "0.6",
+		"_generator": "CGImap 0.9.0 (617652 spike-06.openstreetmap.org)",
+		"_copyright": "OpenStreetMap and contributors",
+		"_attribution": "http://www.openstreetmap.org/copyright",
+		"_license": "http://opendatacommons.org/licenses/odbl/1-0/"
+	}
+}
